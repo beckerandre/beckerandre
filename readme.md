@@ -22,7 +22,6 @@ You can find me here too 👇
   ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
   ![GITHUB](https://img.shields.io/badge/-Github-232323?style=flat&labelColor=000000&logo=github&logoColor=ffffff)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
-  ![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=E34F26&logo=PHP&logoColor=ffffff)
   ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=1572B6&logo=mysql&logoColor=ffffff)
   ![VisualStudio](https://img.shields.io/badge/-Visual_Studio-232323?style=flat&labelColor=1572B6&logo=visualstudio&logoColor=ffffff)
   ![GIT](https://img.shields.io/badge/-GIT-232323?style=flat&labelColor=E34F26&logo=git&logoColor=ffffff)
